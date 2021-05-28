@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhashis Mollick</h1>
 <h2> Professional Software Engineer with experience in Front-End. </h2>
-<h3> Currently Working at SELISE Digital Platforms, as Front-End Engineer. A quick learner with self learning attitude. I love to learn and explore new things. I am more passionate about Competitive Programming and Problem Solving.</h3>
+<h3> Currently Working at SELISE Digital Platforms, as Front-End Engineer.</h3>
+<h3> A quick learner with self learning attitude. I love to learn and explore new things. I am more passionate about Competitive Programming and Problem Solving.</h3>
 <h3> I have Participated in various Competitive Programming Onsite and Online Contests, such as :</h3>
 <ul>
 <li>ACM-ICPC Asia Dhaka Regional Onsite Contest (ICPC - 2017, 2018, 2019)</li>
