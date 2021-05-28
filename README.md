@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Subhashis Mollick</h1>
 <h3 align="center">Professional Software Engineer with experience in Front-End.</h3>
-<h4 Currently Working at SELISE Digital Platforms, as Front-End Engineer. A quick learner with self learning attitude.</h4>
-<h4 I love to learn and explore new things. I am more passionate about Competitive Programming and Problem Solving.</h4>
-<h4 I have Participated in various Competitive Programming Onsite and Online Contests, such as : </h4>
-<h4 ACM-ICPC Asia Dhaka Regional Onsite Contest (ICPC - 2017, 2018, 2019) </h4>
-<h4 National Collegiate Programming Contest (NCPC - 2020) </h4>
-<h4 Various(more than 15) Inter & Intra University Programming Contest (IUPC). </h4>
-<h4 Also participated more than 450+ Online Contests in Codeforces, Codechef, Atcoder, Hackerrank, Hackerearth, Toph, Google Code Jam, Google Kickstart, Facebook Hackercup, Leetcode etc.</h4>
+<h3 Currently Working at SELISE Digital Platforms, as Front-End Engineer. A quick learner with self learning attitude.</h3>
+<h3 I love to learn and explore new things. I am more passionate about Competitive Programming and Problem Solving.</h3>
+<h3 I have Participated in various Competitive Programming Onsite and Online Contests, such as : </h3>
+<h3 ACM-ICPC Asia Dhaka Regional Onsite Contest (ICPC - 2017, 2018, 2019) </h3>
+<h3 National Collegiate Programming Contest (NCPC - 2020) </h3>
+<h3 Various(more than 15) Inter & Intra University Programming Contest (IUPC). </h3>
+<h3 Also participated more than 450+ Online Contests in Codeforces, Codechef, Atcoder, Hackerrank, Hackerearth, Toph, Google Code Jam, Google Kickstart, Facebook Hackercup, Leetcode etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashiscse&label=Profile%20views&color=0e75b6&style=flat" alt="subhashiscse" /> </p>
 
