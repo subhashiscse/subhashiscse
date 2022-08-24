@@ -30,9 +30,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashiscse&show_icons=true&locale=en&layout=compact" alt="subhashiscse" /></p>
 
-![](https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/light_card.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhashiscse&show_icons=true&locale=en" alt="subhashiscse" /></p>
+
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/max_rating.svg" alt="subhashiscse" /></p>
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/subhashiscse/cf-stats/main/output/rating.svg" alt="subhashiscse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhashiscse&" alt="subhashiscse" /></p>
