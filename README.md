@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhashis Mollick</h1>
 <h2> Professional Software Engineer with experience in Full Stack. </h2>
-<h3> Currently Working at SELISE Digital Platforms, as Full Stack.</h3>
+<h3> Currently Working at SELISE Digital Platforms, as a Full Stack Developer.</h3>
 <h3> A quick learner with self learning attitude. I love to learn and explore new things. I am more passionate about Competitive Programming and Problem Solving.</h3>
 <h3> I have Participated in various Competitive Programming Onsite and Online Contests, such as :</h3>
 <ul>
