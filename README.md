@@ -6,7 +6,7 @@
 <ul>
   <li>ACM-ICPC Asia Dhaka Regional Onsite Contest (ICPC - 2017, 2018, 2019)</li>
   <li>National Collegiate Programming Contest (NCPC - 2020)</li>
-  <li>Various(more than 15) Inter &amp; Intra University Programming Contest (IUPC).</li>
+  <li>Various(more than 15) Inter University Programming Contest (IUPC).</li>
   <li>Also participated more than 450+ Online Contests in Codeforces, Codechef, Atcoder, Hackerrank, Hackerearth, Toph, Google Code Jam, Google Kickstart, Facebook Hackercup, Leetcode etc.</li>
 </ul>
 <p align="left">
